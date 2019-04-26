@@ -1,6 +1,6 @@
 # SberbankTest
 
-Проект собран при помощи maven. Для запуска необходим Jetbrains Intellij IDEA.
+Проект собран при помощи maven. Для запуска необходим Jetbrains Intellij IDEA, Apache Tomcat 8.5.40.
 
 Откройте папку в Intellij IDEA. В Edit Configuration создать новую конфигурацию и выбрать Tomcat server -> local.
 
