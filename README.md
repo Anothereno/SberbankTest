@@ -2,7 +2,7 @@
 
 Проект собран при помощи maven. Для запуска необходим Jetbrains Intellij IDEA, Apache Tomcat 8.5.40.
 
-Откройте папку test в Intellij IDEA. В Edit Configuration создать новую конфигурацию и выбрать Tomcat server -> local.
+Откройте папку test в Intellij IDEA. В Edit Configuration создать новую конфигурацию и выбрать Tomcat server -> local. Нажать на красную надпись Fix и выбрать War Exploded, в Application context поставить "/".
 
 Запустить проект.
 
